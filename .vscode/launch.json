@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Task2 (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Task2 Win64 Debug Build",
+			"program": "E:\\Documents\\Unreal Projects\\Task2\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2 (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Task2 Win64 DebugGame Build",
+			"program": "E:\\Documents\\Unreal Projects\\Task2\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2 (Development)",
+			"request": "launch",
+			"preLaunchTask": "Task2 Win64 Development Build",
+			"program": "E:\\Documents\\Unreal Projects\\Task2\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2 (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Task2 Win64 Shipping Build",
+			"program": "E:\\Documents\\Unreal Projects\\Task2\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2 (Test)",
+			"request": "launch",
+			"preLaunchTask": "Task2 Win64 Test Build",
+			"program": "E:\\Documents\\Unreal Projects\\Task2\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2Editor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Task2Editor Win64 Debug Build",
+			"program": "F:\\Unreal Engine\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"E:\\Documents\\Unreal Projects\\Task2\\Task2.uproject"
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2Editor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Task2Editor Win64 DebugGame Build",
+			"program": "F:\\Unreal Engine\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"E:\\Documents\\Unreal Projects\\Task2\\Task2.uproject"
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Task2Editor (Development)",
+			"request": "launch",
+			"preLaunchTask": "Task2Editor Win64 Development Build",
+			"program": "F:\\Unreal Engine\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"E:\\Documents\\Unreal Projects\\Task2\\Task2.uproject"
+			],
+			"cwd": "F:\\Unreal Engine\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Unreal Engine\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "F:\\Unreal Engine\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\Documents\\Unreal Projects\\Task2\\Task2.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "F:\\Unreal Engine\\UE_4.26"
+		}
+	]
+}

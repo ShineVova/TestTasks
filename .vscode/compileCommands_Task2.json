@@ -1,0 +1,67 @@
+[
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2.Build.cs",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2Character.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2Character.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2GameMode.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2GameMode.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2HUD.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2HUD.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2Projectile.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Task2Projectile.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Trutle.cpp",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Documents\\\\Unreal Projects\\\\Task2\\\\Source\\\\Task2\\\\Trutle.h",
+		"command": "cl.exe @\"E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2\\Task2.182.rsp\"",
+		"directory": "F:\\Unreal Engine\\UE_4.26\\Engine\\Source"
+	}
+]

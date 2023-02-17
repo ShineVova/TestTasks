@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Task2Editor Editor Win64 Development (Task2)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Task2.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Documents\\Unreal Projects\\Task2\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
